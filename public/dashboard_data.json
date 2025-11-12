@@ -1,0 +1,44 @@
+{
+  "ventas_diarias": [
+    {
+      "fecha": "2025-11-01",
+      "monto": 147.45
+    },
+    {
+      "fecha": "2025-11-02",
+      "monto": 80.7
+    }
+  ],
+  "top_productos": [
+    {
+      "nombre": "Papa Alfa",
+      "ventas": 80.7,
+      "categoria": "Verduras"
+    },
+    {
+      "nombre": "Mango Ataulfo",
+      "ventas": 79.8,
+      "categoria": "Frutas"
+    },
+    {
+      "nombre": "Plátano Tabasco",
+      "ventas": 42.75,
+      "categoria": "Frutas"
+    },
+    {
+      "nombre": "Jitomate Saladet",
+      "ventas": 24.9,
+      "categoria": "Verduras"
+    }
+  ],
+  "categorias": [
+    {
+      "name": "Frutas",
+      "value": 122.55
+    },
+    {
+      "name": "Verduras",
+      "value": 105.6
+    }
+  ]
+}

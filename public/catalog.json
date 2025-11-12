@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mng001",
+    "nombre": "Mango Ataulfo",
+    "categoria": "Frutas",
+    "precio": 39.9,
+    "unidad": "kg",
+    "oferta": "2x$70 hoy",
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/078b4bd4-5245-461b-9adc-7bbff710eb1c.png"
+  },
+  {
+    "id": "plt001",
+    "nombre": "Plátano Tabasco",
+    "categoria": "Frutas",
+    "precio": 28.5,
+    "unidad": "kg",
+    "oferta": null,
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/68aa93d9-8f26-42b3-8047-66306c5d8a65.png"
+  },
+  {
+    "id": "snd001",
+    "nombre": "Manzana Golden",
+    "categoria": "Frutas",
+    "precio": 54.0,
+    "unidad": "kg",
+    "oferta": null,
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/dab92b4e-0b13-4f6d-8ba8-932efa80ea91.png"
+  },
+  {
+    "id": "jtm001",
+    "nombre": "Jitomate Saladet",
+    "categoria": "Verduras",
+    "precio": 24.9,
+    "unidad": "kg",
+    "oferta": null,
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/fc39db79-cda5-4727-9edb-6054c6887d2f.png"
+  },
+  {
+    "id": "cbl001",
+    "nombre": "Cebolla Blanca",
+    "categoria": "Verduras",
+    "precio": 22.0,
+    "unidad": "kg",
+    "oferta": null,
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/a4b45f90-f47a-4758-a07a-14217bce100d.png"
+  },
+  {
+    "id": "pap001",
+    "nombre": "Papa Alfa",
+    "categoria": "Verduras",
+    "precio": 26.9,
+    "unidad": "kg",
+    "oferta": "Promo $24/kg en 3kg",
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/108b1b3e-582b-4823-b985-97c27dce4018.png"
+  },
+  {
+    "id": "znl001",
+    "nombre": "Limón Colima",
+    "categoria": "Frutas",
+    "precio": 42.0,
+    "unidad": "kg",
+    "oferta": null,
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/f3a25558-8ad9-43a5-b61b-4607d67c8c1a.png"
+  },
+  {
+    "id": "frz001",
+    "nombre": "Fresa Empaque 500g",
+    "categoria": "Frutas",
+    "precio": 45.0,
+    "unidad": "empaque",
+    "oferta": null,
+    "disponible": true,
+    "imagen": "https://static.abacusaicdn.net/images/4bf51ff3-dda6-40aa-9bb5-8672d444cf8b.png"
+  }
+]

@@ -1,0 +1,1 @@
+Lista de precios del día:\n\n[Frutas]\n- Limón Colima (kg): $42.00\n- Mango Ataulfo (kg): $39.90 • 2x$70 hoy\n- Manzana Golden (kg): $54.00\n- Plátano Tabasco (kg): $28.50\n\n[Verduras]\n- Cebolla Blanca (kg): $22.00\n- Jitomate Saladet (kg): $24.90\n- Papa Alfa (kg): $26.90 • Promo $24/kg en 3kg
