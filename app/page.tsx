@@ -55,7 +55,7 @@ export default function Home() {
             .map(i => `- ${i.nombre} x ${qty[i.id]} ${i.unidad} @ $${i.precio.toFixed(2)}`)
             .join("%0A");
         const encabezado = "Hola, quiero pedir:%0A%0A";
-        const footer = `%0A%0ATotal estimado: $${total.toFixed(2)} MXN%0A%0AEntrega en: [Tu dirección/colonia]%0AHorario preferido: [hh:mm]`;
+        const footer = `%0A%0ATotal estimado: $${total.toFixed(2)} MXN%0A%0A%0A`;
         return encabezado + seleccion + footer;
     }, [filtrados, qty, total]);
 
